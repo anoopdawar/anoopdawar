@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anoopdawar
 - 👀 I’m a product advisor to Deepgram. I work closely with the CEO and VP Product.
-- 🌱 I’m currently focused on acivating a handbook and instilling iteration into the work we do at Deepgram.
+- 🌱 I’m currently focused on developing and executing strategic initiatives that drive sustainable growth and ensure our position as a leader in the Voice AI space. 
 - 📫 If you want to meet me, please writeup an agenda doc and send it my way first. We can go back and forth on it till we think we actually need a sync meeting. I prefer to use vimcal as it keeps my personal and professional calendars in sync. https://book.vimcal.com/p/anoop/25m-dgad
 
 
