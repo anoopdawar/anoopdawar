@@ -22,7 +22,7 @@
 
 **Impatience:** Sometimes I feel that I know the answer and we should just go ahead and listen to me :) This is something I'm working on. If you find me in this situation, know that this is an area of improvement. Call it out to me. I will do better.
 
-**Iteration** After working at GitLab, I'm a big believe in the value of Iteration to move fast. Iteration is often misunderstood. Iteration is in how we act. Make things better than they were every day. The compounding impact of every  person in the company working this way is phenomenal. 
+**Iteration** After working at GitLab, I'm a big believer in the value of Iteration to move fast. Iteration is often misunderstood. Iteration is in how we act. Make things better than they were every day. The compounding impact of every  person in the company working this way is phenomenal. 
 
 **Pet Peeves** (Not doing the following)
 - Be prepared for the meetings and winging it.
