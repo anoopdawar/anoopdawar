@@ -25,7 +25,7 @@
 **Iteration** After working at GitLab, I'm a big believer in the value of Iteration to move fast. Iteration is often misunderstood. Iteration is in how we act. Make things better than they were every day. The compounding impact of every  person in the company working this way is phenomenal. 
 
 **Pet Peeves** (Not doing the following)
-- Be prepared for the meetings and winging it.
+- Be prepared for the meetings.
 - Be purposeful and staying focused on the intent of the discussion
 - Be succint.
 - Break problems down into Mutually Exclusive, cumulatively exhaustive set
