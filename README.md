@@ -25,11 +25,12 @@
 **Iteration** After working at GitLab, I'm a big believer in the value of Iteration to move fast. Iteration is often misunderstood. Iteration is in how we act. Make things better than they were every day. The compounding impact of every  person in the company working this way is phenomenal. 
 
 **Pet Peeves** (Not doing the following)
-- Be prepared for the meetings.
-- Be purposeful and staying focused on the intent of the discussion
-- Be succint.
-- Break problems down into Mutually Exclusive, cumulatively exhaustive set
-- Start with why
+- Being unprepared for the meetings.
+- Be distracted or unfocused during discussions where the team needs a more purposeful and decision oriented.
+- Rambling and repeating your thoughts instead of being succint.
+- Vague and confused articulation of the problems.
+- Focusing on solutions before articulating the problem.
+- Not grounding solutions in service of our customers. 
 
 <!---
 anoopdawar/anoopdawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
